@@ -1,6 +1,6 @@
 # Introduction to components
 
-A *component* controls a patch of screen called a *view*.
+A *component* controls a part of screen called a *view*.
 For example, individual components define and control each of the following views from the [Tutorial](tutorial):
 
 * The app root with the navigation links.
